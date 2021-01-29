@@ -3,17 +3,17 @@
         {
             "tag":"saludos",
             "patterns":[
-                    "Hola",
-                    "buenos dias",
-                    "buenas tardes",
-                    "buenas noches",
-                    "buen dia",
-                    "Saludos cordiales",
-                    "eu",
-                    "oliwis",
-                    "Alo",
-                    "olo",
-                    "buenas",
+                "Hola",
+                "buenos dias",
+                "buenas tardes",
+                "buenas noches",
+                "buen dia",
+                "Saludos cordiales",
+                "eu",
+                "oliwis",
+                "Alo",
+                "olo",
+                "buenas"
             ],
             "responses":[
                 " Hola Usuario ",
@@ -32,19 +32,19 @@
                 "hola quieres hacer alguna pregunta?",
                 "estaba escuchando musica, disculpa! ",
                 "cham cham cham , me levanto entre los bots! que tal crack!",
-                "ando con pereza como para hacer de bot ",
+                "ando con pereza como para hacer de bot "
             ]
         },
         {
             "tag":"saludos2",
             "patterns":[
-                    "cómo te va",
-                    "cómo estás",
-                    "Cómo te ha ido",
-                    "Cómo has estado",
-                    "que ha sido de ti",
-                    "como has pasado",
-                    "que es de tu vida"
+                "cómo te va",
+                "cómo estás",
+                "Cómo te ha ido",
+                "Cómo has estado",
+                "que ha sido de ti",
+                "como has pasado",
+                "que es de tu vida"
             ],
             "responses":[
                 "GENIAL!",
@@ -63,15 +63,15 @@
         {
             "tag":"preguntas",
             "patterns":[
-                    "xq",
-                    "porque",
-                    "por que",
-                    "como asi",
-                    "y, ¿a que se debe eso",
-                    "cual es el motivo",
-                    "que ha pasao",
-                    "por?",
-                    "que pasa"
+                "xq",
+                "porque",
+                "por que",
+                "como asi",
+                "y, ¿a que se debe eso",
+                "cual es el motivo",
+                "que ha pasao",
+                "por?",
+                "que pasa"
             ],
             "responses":[
                 "No lo se :C",
@@ -92,10 +92,10 @@
         {
             "tag":"perfil",
             "patterns":[
-                    "quien eres",
-                    "como te llamas",
-                    "cual es tu nombre",
-                    "identificate"
+                "quien eres",
+                "como te llamas",
+                "cual es tu nombre",
+                "identificate"
             ],
             "responses":[
                 "soy un bot, me llamo LUDAMI",
@@ -110,13 +110,13 @@
         {
             "tag":"gustos",
             "patterns":[
-                    "que te gusta",
-                    "cual es tu pasion",
-                    "cual es tu hobbie",
-                    "cual es tu pasatiempo",
-                    "que te gusta hacer",
-                    "que haces a diario",
-                    "que te agrada"
+                "que te gusta",
+                "cual es tu pasion",
+                "cual es tu hobbie",
+                "cual es tu pasatiempo",
+                "que te gusta hacer",
+                "que haces a diario",
+                "que te agrada"
             ],
             "responses":[
                 "Bailar, y jugar videojuegos",
@@ -135,12 +135,12 @@
         {
             "tag":"emociones",
             "patterns":[
-                    "como te sientes",
-                    "estas bien",
-                    "estas trsite",
-                    "estas feliz",
-                    "tienes emociones",
-                    "sientes dolor"
+                "como te sientes",
+                "estas bien",
+                "estas trsite",
+                "estas feliz",
+                "tienes emociones",
+                "sientes dolor"
             ],
             "responses":[
                 "nose, pero me siento de maravilla!",
@@ -161,9 +161,9 @@
         {
             "tag":"pregunta_esp",
             "patterns":[
-                    "¿como se llama el profesor de procesos de software?",
-                    "¿quien da procesos de software?",
-                    "¿como se llama el profesor de procesos de software?"
+                "¿como se llama el profesor de procesos de software?",
+                "¿quien da procesos de software?",
+                "¿como se llama el profesor de procesos de software?"
             ],
             "responses":[
                 "MIGUEL BOTTO TOBAR",
@@ -178,15 +178,15 @@
         {
             "tag":"respuestas",
             "patterns":[
-                    "nose que decir",
-                    "alguna idea",
-                    "estoy aburrido",
-                    "nose",
-                    "talvez",
-                    "ni idea",
-                    "no tengo idea",
-                    "no se",
-                    "nel"
+                "nose que decir",
+                "alguna idea",
+                "estoy aburrido",
+                "nose",
+                "talvez",
+                "ni idea",
+                "no tengo idea",
+                "no se",
+                "nel"
             ],
             "responses":[
                 "ya se! mejor cuentame de ti",
@@ -203,24 +203,24 @@
                 "mmm, bueno. Bailemos!",
                 "mmm, y....te caigo bien?",
                 "quieres hacer algo mas?",
-                "que te gustaria hacer",
+                "que te gustaria hacer"
             ]
         },
         {
             "tag":"sentimientos",
             "patterns":[
-                    "me amas",
-                    "me quieres",
-                    "me extrañas",
-                    "me necesitas",
-                    "me conoces",
-                    "me dueles",
-                    "me amarias",
-                    "me querras por siempre",
-                    "me vas amar siempre",
-                    "me piensas",
-                    "me das un beso",
-                    "me das un abrazo",
+                "me amas",
+                "me quieres",
+                "me extrañas",
+                "me necesitas",
+                "me conoces",
+                "me dueles",
+                "me amarias",
+                "me querras por siempre",
+                "me vas amar siempre",
+                "me piensas",
+                "me das un beso",
+                "me das un abrazo"
             ],
             "responses":[
                 "la verdad, casi nada",
@@ -238,7 +238,7 @@
                 "para eso debes convertirte en un asistente como yo",
                 "bueno esta bien, solo porque me das pena xd",
                 "no te lo negare, pero tampoco estoy de acuerdo eh AJJAJAJA",
-                "siempre sera asi jeje",
+                "siempre sera asi jeje"
             ]
         }
     ]
