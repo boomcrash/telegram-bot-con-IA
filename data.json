@@ -38,10 +38,10 @@
         {
             "tag":"saludos2",
             "patterns":[
-                "cómo te va",
-                "cómo estás",
-                "Cómo te ha ido",
-                "Cómo has estado",
+                "como te va",
+                "como estas",
+                "Como te ha ido",
+                "Como has estado",
                 "que ha sido de ti",
                 "como has pasado",
                 "que es de tu vida"
@@ -67,10 +67,10 @@
                 "porque",
                 "por que",
                 "como asi",
-                "y, ¿a que se debe eso",
+                "y, a que se debe eso",
                 "cual es el motivo",
                 "que ha pasao",
-                "por?",
+                "por",
                 "que pasa"
             ],
             "responses":[
@@ -116,7 +116,8 @@
                 "cual es tu pasatiempo",
                 "que te gusta hacer",
                 "que haces a diario",
-                "que te agrada"
+                "que te agrada",
+                "que haces"
             ],
             "responses":[
                 "Bailar, y jugar videojuegos",
@@ -135,12 +136,13 @@
         {
             "tag":"emociones",
             "patterns":[
-                "como te sientes",
+                "sientes",
                 "estas bien",
-                "estas trsite",
+                "estas triste",
                 "estas feliz",
                 "tienes emociones",
-                "sientes dolor"
+                "sientes dolor",
+                "tienes sentimientos"
             ],
             "responses":[
                 "nose, pero me siento de maravilla!",
@@ -161,9 +163,8 @@
         {
             "tag":"pregunta_esp",
             "patterns":[
-                "¿como se llama el profesor de procesos de software?",
-                "¿quien da procesos de software?",
-                "¿como se llama el profesor de procesos de software?"
+                "procesos de software?",
+                "profesor de procesos
             ],
             "responses":[
                 "MIGUEL BOTTO TOBAR",
@@ -191,16 +192,16 @@
             "responses":[
                 "ya se! mejor cuentame de ti",
                 "bueno en fin, como te llamas?",
-                "hey!saquemos tema de conversacion, dime cuantos años tienes?",
+                "hey!cambiemos tema de conversacion, dime cuantos años tienes?",
                 "sabes ando aburrido, aunque soy un bot me aburro ",
                 "tienes sueño?",
                 "quiero dormir",
-                "me caes bien, de donde eres",
-                "wooou, quiero conocerte mas",
-                "te gustaria algo divertido?",
-                "y si pones quit? es que quiero dormir",
+                "me caes bien, de donde eres?",
+                "disculpa que te interrumpa,pero no me gusta este tema, podemos cambiarlo?",
+                "para! y si mejor hacemos algo divertido?",
+                "y si pones duerme? es que quiero dormir",
                 "dame un abrazo mejor",
-                "mmm, bueno. Bailemos!",
+                "mmm,nose, y si Bailemos?",
                 "mmm, y....te caigo bien?",
                 "quieres hacer algo mas?",
                 "que te gustaria hacer"
@@ -239,6 +240,75 @@
                 "bueno esta bien, solo porque me das pena xd",
                 "no te lo negare, pero tampoco estoy de acuerdo eh AJJAJAJA",
                 "siempre sera asi jeje"
+            ]
+        },
+        {
+            "tag":"afirmacion",
+            "patterns":[
+                "si",
+                "obvio",
+                "ya",
+                "confirmo",
+                "por supuesto",
+                "claro",
+                "listo",
+                "ok",
+                "bien",
+                "de acuerdo"
+            ],
+            "responses":[
+                "Genial! esa es la actitud que me gusta!",
+                "siempre positivo, nunca inpositivo",
+                "eres una persona muy positiva",
+                "siempre le dices si a todo?",
+                "me caes bien! solo por eso te revelare un secreto 'no le digas a nadie' escribe omnitrix y accede al lado oscuro",
+                "muy bien , muy buena respuesta",
+                "creo que has tomado la decision correcta",
+                "siiiiiiiiiiiiiiiii! eres el mejor usuario que he tenido ",
+                "confirmo tu confirmacion!",
+                "bueno hagamoslo.",
+                "totalmente de acuerdo con tu respuesta",
+                "sabes, sabia que dirias eso",
+                "sabes, sabia que serias positivo",
+                "oh por dios, nunca pense tener un usuario tan positivo"
+            ]
+        },
+        {
+            "tag":"negacion",
+            "patterns":[
+                "no",
+                "nunca",
+                "jamas",
+                "confirmo",
+                "por supuesto que no",
+                "ni loco",
+                "mal"
+            ],
+            "responses":[
+                "ay pero que negativo! intenta ser positivo ",
+                "deja de ser negativo",
+                "di que si!, vamos andale",
+                "no te hagas de rogar, di que si!",
+                "chale, pero si has sido muy negativo amigo",
+                "antes era asi de negativo como tu, y mi vida cambio desde que empece a ser positiva",
+                "porque no?",
+                "al menos dame un motivo del porque no quieres",
+                "pero por que no?",
+                "eres el tipo con negatividad en su maxima expresion",
+                "persona mas negativa no existe eh!",
+                "y si cambias de opinion?",
+                "piensalo bien, estas seguro?",
+                "seguro?",
+                "te dare un momento para que cambies de opinion"
+            ]
+        },
+        {
+            "tag":"omni",
+            "patterns":[
+                "omnitrix"
+            ],
+            "responses":[
+                "BIENVENIDO ENTRASTE AL LADO OSCURO!"
             ]
         }
     ]
