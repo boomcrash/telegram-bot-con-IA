@@ -2,7 +2,7 @@
   --body-bg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
   --msger-bg: #fff;
   --border: 2px solid #ddd;
-  --left-msg-bg: black;
+  --left-msg-bg: white;
   --right-msg-bg: black;
 }
 
