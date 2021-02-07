@@ -333,7 +333,7 @@
                  "Vuelos del aeropuerto Jose juaquin de olmedo","Jose juaquin de olmedo","aeropuerto"
             ],
             "responses":[
-                "ESTOS SON LOS VUELOS DISPONIBLES DEL AEROPUERTO JOSE JUSQUIN DE OLMEDO"
+                "ESTOS SON LOS VUELOS DISPONIBLES DEL AEROPUERTO JOSE JUSQUIN DE OLMEDO",
                 "Vuelo214|[IDA][------]|Jose juaquin de olmedo|GYE(06:53)(Hoy)|PTY(09:04)(Hoy)|Tocumen|Escala |$257,97",
                 "Vuelo214|[IDA][VUELTA]|Jose juaquin de olmedo|GYE(01:50)(Hoy)|MIA(06:55)(Hoy)| Miami |Directo|$337,97",
                 "Vuelo214|[IDA][VUELTA]|Jose juaquin de olmedo|GYE(13:52)(Hoy)|PTY(19:18)(Hoy)| Miami |Directo|$339,99"
