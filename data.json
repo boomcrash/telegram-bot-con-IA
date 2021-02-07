@@ -328,8 +328,7 @@
         {
             "tag":"jose",
             "patterns":[
-                "Vuelos disponibles","MOSTRAR VUELOS","TODOS LOS VUELOS","muestrame los vuelos",
-                 "Vuelos",
+            
                  "Vuelos del aeropuerto Jose juaquin de olmedo","Jose juaquin de olmedo","aeropuerto"
             ],
             "responses":[
@@ -342,7 +341,6 @@
         {
             "tag":"tocumen",
             "patterns":[
-                "Vuelos disponibles","MOSTRAR VUELOS","TODOS LOS VUELOS","muestrame los vuelos",
                  "Vuelos","Tocumen","Vuelos del aeropuerto Tocumen","aeropuerto"
             ],
             "responses":[
