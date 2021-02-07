@@ -305,7 +305,7 @@
         {
             "tag":"ayuda",
             "patterns":[
-                "Muéstrame","cual es el","cuales son","quiero","quiero hacer una","Ayuda","comandos","menu","reservar","reservacion","opciones"
+                "Muestrame","cual es el","cuales son","quiero","quiero hacer una","Ayuda","comandos","menu","reservar","reservacion","opciones"
             ],
             "responses":[
                 "PARA REALIZAR UNA RESERVACION PUEDE UTILIZAR LOS SIGUIENTES COMANDOS\n'LIST':LISTAR VUELOS DISPONIBLES\n'SEARCHD':BUSCAR DESTINO U ORIGEN\n'BUY_TICKET':RESERVAR VUELOS DE SOLO IDA\n'BUYRT_TICKET': RESERVAR VUELOS IDA-VUELTA"
@@ -314,7 +314,7 @@
         {
             "tag":"Vuelos disponibles",
             "patterns":[
-                "Vuelos disponibles","LIST","LISTAR VUELOS","MOSTRAR VUELOS","TODOS LOS VUELOS","muéstrame los vuelos",
+                "Vuelos disponibles","LIST","LISTAR VUELOS","MOSTRAR VUELOS","TODOS LOS VUELOS","muestrame los vuelos",
                  "Vuelos"
             ],
             "responses":[
@@ -328,7 +328,7 @@
         {
             "tag":"jose",
             "patterns":[
-                "Vuelos disponibles","LIST","LISTAR VUELOS","MOSTRAR VUELOS","TODOS LOS VUELOS","muéstrame los vuelos",
+                "Vuelos disponibles","MOSTRAR VUELOS","TODOS LOS VUELOS","muestrame los vuelos",
                  "Vuelos",
                  "Vuelos del aeropuerto Jose juaquin de olmedo","Jose juaquin de olmedo","aeropuerto"
             ],
@@ -342,11 +342,11 @@
         {
             "tag":"tocumen",
             "patterns":[
-                "Vuelos disponibles","LIST","LISTAR VUELOS","MOSTRAR VUELOS","TODOS LOS VUELOS","muéstrame los vuelos",
+                "Vuelos disponibles","MOSTRAR VUELOS","TODOS LOS VUELOS","muestrame los vuelos",
                  "Vuelos","Tocumen","Vuelos del aeropuerto Tocumen","aeropuerto"
             ],
             "responses":[
-"ESTOS SON LOS VUELOS DISPONIBLES DEL AEROPUERTO TOCUMEN",
+                "ESTOS SON LOS VUELOS DISPONIBLES DEL AEROPUERTO TOCUMEN",
                 "Vuelo148|[IDA][------]|       Tocumen        |PTY(10:13)(Hoy)|MEX(14:10)(Hoy)|Juarez |Escala |$257,97"
             ]
         }
