@@ -303,12 +303,24 @@
             ]
         },
         {
-            "tag":"omni",
+            "tag":"ayuda",
             "patterns":[
-                "omnitrix"
+                "Ayuda","comandos","menu","reservar","reservacion","opciones"
             ],
             "responses":[
-                "BIENVENIDO ENTRASTE AL LADO OSCURO!"
+                "PARA REALIZAR UNA RESERVACION PUEDE UTILIZAR LOS SIGUIENTES COMANDOS\n'LIST':LISTAR VUELOS DISPONIBLES\n'SEARCHD':BUSCAR DESTINO U ORIGEN\n'BUY_TICKET':RESERVAR VUELOS DE SOLO IDA\n'BUYRT_TICKET':RRSERVAR VUELOS IDA-VUELTA"
+            ]
+        },
+        {
+            "tag":"Vuelos disponibles",
+            "patterns":[
+                "Vuelos disponibles","LIST","LISTAR VUELOS","MOSTRAR VUELOS","TODOS LOS VUELOS"
+            ],
+            "responses":[
+                "Vuelo214|[IDA][------]|José juaquin de olmedo|GYE(06:53)(Hoy)|PTY(09:04)(Hoy)|Tocumen|Escala |$257,97",
+                "Vuelo148|[IDA][------]|       Tocumen        |PTY(10:13)(Hoy)|MEX(14:10)(Hoy)|Juarez |Escala |$257,97",
+                "Vuelo214|[IDA][VUELTA]|José juaquin de olmedo|GYE(01:50)(Hoy)|MIA(06:55)(Hoy)| Miami |Directo|$337,97",
+                "Vuelo214|[IDA][VUELTA]|José juaquin de olmedo|GYE(13:52)(Hoy)|PTY(19:18)(Hoy)| Miami |Directo|$339,99"
             ]
         }
     ]
