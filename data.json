@@ -314,7 +314,7 @@
         {
             "tag":"Vuelos disponibles",
             "patterns":[
-                "Vuelos disponibles","LIST","LISTAR VUELOS","MOSTRAR VUELOS","TODOS LOS VUELOS","muestrame los vuelos",
+                "disponibles","LIST","LISTAR","MOSTRAR","TODOS","muestrame",
                  "Vuelos"
             ],
             "responses":[
@@ -324,7 +324,7 @@
         {
             "tag":"ecuador",
             "patterns":[
-                 "Vuelos","jose juaquin de olmedo","Vuelos del aeropuerto jose juaquin de olmedo","GYE","GUAYAQUIL","ECUADOR"
+                 "Vuelos","jose juaquin de olmedo","aeropuerto jose juaquin de olmedo","GYE","GUAYAQUIL","ECUADOR"
             ],
             "responses":[
               "ECUADOR"
@@ -333,7 +333,7 @@
         {
             "tag":"mexico",
             "patterns":[
-                 "Vuelos","juarez","Vuelos del aeropuerto juarez","MEX","CIUDAD DE MEXICO"
+                 "Vuelos","juarez","aeropuerto juarez","MEX","CIUDAD DE MEXICO"
             ],
             "responses":[
               "MEXICO"
@@ -351,7 +351,7 @@
         {
             "tag":"eeuu",
             "patterns":[
-                 "Vuelos","internacional","Vuelos del aeropuerto internacional de miami","MIA","MIAMI","EEUU","ESTADOS UNIDOS"
+                 "Vuelos","internacional","aeropuerto internacional de miami","MIA","MIAMI","EEUU","ESTADOS UNIDOS"
             ],
             "responses":[
               "EEUU"
