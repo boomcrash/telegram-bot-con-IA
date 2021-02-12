@@ -324,7 +324,7 @@
         {
             "tag":"ecuador",
             "patterns":[
-                 "Vuelos","Tocumen","Vuelos del aeropuerto Tocumen","GYE","GUAYAQUIL"
+                 "Vuelos","Tocumen","Vuelos del aeropuerto Tocumen","GYE","GUAYAQUIL","ECUADOR"
             ],
             "responses":[
               "ECUADOR"
@@ -351,7 +351,7 @@
         {
             "tag":"eeuu",
             "patterns":[
-                 "Vuelos","Tocumen","Vuelos del aeropuerto Tocumen","MIA","MIAMI"
+                 "Vuelos","Tocumen","Vuelos del aeropuerto Tocumen","MIA","MIAMI","EEUU","ESTADOS UNIDOS"
             ],
             "responses":[
               "EEUU"
