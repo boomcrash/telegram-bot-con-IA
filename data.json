@@ -318,34 +318,43 @@
                  "Vuelos"
             ],
             "responses":[
-                "ESTOS SON TODOS LOS VUELOS DISPONIBLES",
-                "Vuelo214|[IDA][------]|Jose juaquin de olmedo|GYE(06:53)(Hoy)|PTY(09:04)(Hoy)|Tocumen|Escala |$257,97",
-                "Vuelo148|[IDA][------]|       Tocumen        |PTY(10:13)(Hoy)|MEX(14:10)(Hoy)|Juarez |Escala |$257,97",
-                "Vuelo214|[IDA][VUELTA]|Jose juaquin de olmedo|GYE(01:50)(Hoy)|MIA(06:55)(Hoy)| Miami |Directo|$337,97",
-                "Vuelo214|[IDA][VUELTA]|Jose juaquin de olmedo|GYE(13:52)(Hoy)|PTY(19:18)(Hoy)| Miami |Directo|$339,99"
+                "LIST"
             ]
         },
         {
-            "tag":"jose",
+            "tag":"ecuador",
             "patterns":[
-            
-                 "Vuelos del aeropuerto Jose juaquin de olmedo","Jose juaquin de olmedo","aeropuerto"
+                 "Vuelos","Tocumen","Vuelos del aeropuerto Tocumen","GYE","GUAYAQUIL"
             ],
             "responses":[
-                "ESTOS SON LOS VUELOS DISPONIBLES DEL AEROPUERTO JOSE JUSQUIN DE OLMEDO",
-                "Vuelo214|[IDA][------]|Jose juaquin de olmedo|GYE(06:53)(Hoy)|PTY(09:04)(Hoy)|Tocumen|Escala |$257,97",
-                "Vuelo214|[IDA][VUELTA]|Jose juaquin de olmedo|GYE(01:50)(Hoy)|MIA(06:55)(Hoy)| Miami |Directo|$337,97",
-                "Vuelo214|[IDA][VUELTA]|Jose juaquin de olmedo|GYE(13:52)(Hoy)|PTY(19:18)(Hoy)| Miami |Directo|$339,99"
+              "ECUADOR"
             ]
         },
         {
-            "tag":"tocumen",
+            "tag":"mexico",
             "patterns":[
-                 "Vuelos","Tocumen","Vuelos del aeropuerto Tocumen","aeropuerto"
+                 "Vuelos","Tocumen","Vuelos del aeropuerto Tocumen","MEX","CIUDAD DE MEXICO"
             ],
             "responses":[
-                "ESTOS SON LOS VUELOS DISPONIBLES DEL AEROPUERTO TOCUMEN",
-                "Vuelo148|[IDA][------]|       Tocumen        |PTY(10:13)(Hoy)|MEX(14:10)(Hoy)|Juarez |Escala |$257,97"
+              "MEXICO"
+            ]
+        },
+        {
+            "tag":"panama",
+            "patterns":[
+                 "Vuelos","Tocumen","Vuelos del aeropuerto Tocumen","PTY","CIUDAD DE PANAMA"
+            ],
+            "responses":[
+              "PANAMA"
+            ]
+        },
+        {
+            "tag":"eeuu",
+            "patterns":[
+                 "Vuelos","Tocumen","Vuelos del aeropuerto Tocumen","MIA","MIAMI"
+            ],
+            "responses":[
+              "EEUU"
             ]
         }
     ]
