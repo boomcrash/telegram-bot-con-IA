@@ -322,39 +322,13 @@
             ]
         },
         {
-            "tag":"ecuador",
+            "tag":"vuelos especificos",
             "patterns":[
-                 "Vuelos","jose juaquin de olmedo","aeropuerto jose juaquin de olmedo","GYE","GUAYAQUIL","ECUADOR"
+                 "Vuelos","jose juaquin de olmedo","aeropuerto jose juaquin de olmedo","GYE","de GUAYAQUIL","ECUADOR","juarez","aeropuerto juarez","MEX","CIUDAD DE MEXICO",
+                "Tocumen","Vuelos del aeropuerto Tocumen","PTY","CIUDAD DE PANAMA","internacional","aeropuerto internacional de miami","MIA","de MIAMI","EEUU","ESTADOS UNIDOS"
             ],
             "responses":[
-              "ECUADOR"
-            ]
-        },
-        {
-            "tag":"mexico",
-            "patterns":[
-                 "Vuelos","juarez","aeropuerto juarez","MEX","CIUDAD DE MEXICO"
-            ],
-            "responses":[
-              "MEXICO"
-            ]
-        },
-        {
-            "tag":"panama",
-            "patterns":[
-                 "Vuelos","Tocumen","Vuelos del aeropuerto Tocumen","PTY","CIUDAD DE PANAMA"
-            ],
-            "responses":[
-              "PANAMA"
-            ]
-        },
-        {
-            "tag":"eeuu",
-            "patterns":[
-                 "Vuelos","internacional","aeropuerto internacional de miami","MIA","MIAMI","EEUU","ESTADOS UNIDOS"
-            ],
-            "responses":[
-              "EEUU"
+              "especifico"
             ]
         }
     ]
