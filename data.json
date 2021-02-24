@@ -308,7 +308,7 @@
                 "Muestrame","cual es el","cuales son","quiero","quiero hacer una","Ayuda","comandos","menu","reservar","reservacion","opciones"
             ],
             "responses":[
-                "🔥PARA INTERACTURA CON EL BOT🔥\n PUEDE UTILIZAR LOS SIGUIENTES COMANDOS......\n⭐'/LIST':LISTAR VUELOS DISPONIBLES\n⭐'/SEARCHD':BUSCAR VUELOS POR DESTINO.\n⭐'/SEARCHO':BUSCAR VUELOS POR ORIGEN.\n⭐'/BUY_TICKET':RESERVAR VUELOS DE SOLO IDA.\n⭐'/BUYRT_TICKET': RESERVAR VUELOS IDA-VUELTA.\n🤖🤖🤖ADELANTE, EMPECEMOS!🤖🤖🤖"
+                "🔥PARA INTERACTURA CON EL BOT🔥\n PUEDE UTILIZAR LOS SIGUIENTES COMANDOS......\n⭐'/BotInfo':INFORMACION ACERCA DE MI\n⭐'/LIST':LISTAR VUELOS DISPONIBLES\n⭐'/SEARCHD':BUSCAR VUELOS POR DESTINO.\n⭐'/SEARCHO':BUSCAR VUELOS POR ORIGEN.\n⭐'/BUY_TICKET':RESERVAR VUELOS DE SOLO IDA.\n⭐'/BUYRT_TICKET': RESERVAR VUELOS IDA-VUELTA.\n⭐'/MyReservation': VISUALIZA TUS RESERVACIONES\n🤖🤖🤖ADELANTE, EMPECEMOS!🤖🤖🤖"
             ]
         },
         {
@@ -339,6 +339,24 @@
             ],
             "responses":[
               "origen"
+            ]
+        },
+        {
+            "tag":"ida",
+            "patterns":[
+                 "Vuelos","ida","viaje","reservar","reservacion","quiero","aplazar","separar","apartar","almacenar ","de"
+            ],
+            "responses":[
+              "ida"
+            ]
+        },
+        {
+            "tag":"vuelta",
+            "patterns":[
+                 "Vuelos","ida","viaje","reservar","reservacion","quiero","aplazar","separar","apartar","almacenar ","de"
+            ],
+            "responses":[
+              "vuelta"
             ]
         }
     ]
