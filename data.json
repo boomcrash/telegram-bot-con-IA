@@ -325,7 +325,7 @@
             "tag":"vuelos_destino",
             "patterns":[
                  "Vuelos","jose juaquin de olmedo","aeropuerto jose juaquin de olmedo","GYE","de GUAYAQUIL","ECUADOR","juarez","aeropuerto juarez","MEX","CIUDAD DE MEXICO",
-                "Tocumen","Vuelos del aeropuerto Tocumen","PTY","CIUDAD DE PANAMA","internacional","aeropuerto internacional de miami","MIA","de MIAMI","EEUU","ESTADOS UNIDOS","destino","hasta","llegada"
+                "Tocumen","Vuelos del aeropuerto Tocumen","PTY","CIUDAD DE PANAMA","internacional","aeropuerto internacional de miami","MIA","de MIAMI","EEUU","ESTADOS UNIDOS","destino","hasta","llegada","hacia"
             ],
             "responses":[
               "destino"
@@ -353,7 +353,7 @@
         {
             "tag":"vuelta",
             "patterns":[
-                 "Vuelos","ida","viaje","reservar","reservacion","quiero","aplazar","separar","apartar","almacenar ","de"
+                 "Vuelos","vuelta","viaje","reservar","reservacion","quiero","aplazar","separar","apartar","almacenar ","de"
             ],
             "responses":[
               "vuelta"
