@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/chatbot/Entrenamiento/model.tflearn"
+all_model_checkpoint_paths: "/content/chatbot/Entrenamiento/model.tflearn"
