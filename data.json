@@ -312,7 +312,7 @@
             "tag":"Vuelos_disponibles",
             "patterns":[
                 "disponibles","LIST","LISTAR","MOSTRAR","TODOS","muestrame",
-                 "Vuelos","indicame",
+                 "Vuelos","indicame"
             ],
             "responses":[
                 "LIST"
