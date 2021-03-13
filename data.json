@@ -4,51 +4,51 @@
             "tag":"saludos",
             "patterns":[
                 "Hola",
-                "buenos dias",
-                "buenas tardes",
-                "buenas noches",
-                "buen dia",
+                "dias",
+                "tardes",
+                "noches",
+                "dia",
                 "Saludos cordiales",
                 "eu",
                 "oliwis",
                 "Alo",
                 "olo",
-                "buenas"
+                "buenas","buenos","buen"
             ],
             "responses":[
-                " Hola Usuario ",
+                " Hola Usuario ,Es un gran dia para hacer una reservacion",
                 "Me da gusto verte! ",
                 "Como estas?",
                 "mucho gusto, me llamo LUDAMI",
                 "buenas amigo!",
-                "eu que mas crack!",
+                "eu que mas crack! que necesitas?",
                 "ñam ñam, un gusto!",
-                "soy grosero cuando me despiertan!",
-                "hola, tengo sueño ",
+                "soy grosero cuando me despiertan! pero no contigo.",
+                "hola, tengo sueño .que haremos hoy?",
                 "hey! que tal!",
                 " hoy es un gran dia usuario, como te va?",
                 "hola me presento soy ludami, y tu?",
                 "me complace saludarle usuario ",
                 "hola quieres hacer alguna pregunta?",
-                "estaba escuchando musica, disculpa! ",
+                "estaba escuchando musica, disculpa! que deseas?",
                 "cham cham cham , me levanto entre los bots! que tal crack!",
-                "ando con pereza como para hacer de bot "
+                "ando con pereza como para hacer de bot, pero me toca. "
             ]
         },
         {
             "tag":"saludos2",
             "patterns":[
-                "como te va",
-                "como estas",
-                "Como te ha ido",
-                "Como has estado",
+                "te va",
+                "estas",
+                "te ha ido",
+                "has estado",
                 "que ha sido de ti",
                 "como has pasado",
                 "que es de tu vida"
             ],
             "responses":[
-                "GENIAL!",
-                "EXCELENTE!",
+                "GENIAL! me gusta lo que hago.",
+                "EXCELENTE! y tu?",
                 "De maravila!",
                 "Como no tienes idea!",
                 "Epicardo, supeeer!",
@@ -64,14 +64,11 @@
             "tag":"preguntas",
             "patterns":[
                 "xq",
-                "porque",
-                "por que",
-                "como asi",
-                "y, a que se debe eso",
-                "cual es el motivo",
-                "que ha pasao",
                 "por",
-                "que pasa"
+                "cual es el motivo",
+                "que",
+                "pasa",
+                "paso",""
             ],
             "responses":[
                 "No lo se :C",
@@ -93,8 +90,8 @@
             "tag":"perfil",
             "patterns":[
                 "quien eres",
-                "como te llamas",
-                "cual es tu nombre",
+                "te llamas",
+                "tu nombre",
                 "identificate"
             ],
             "responses":[
@@ -110,23 +107,23 @@
         {
             "tag":"gustos",
             "patterns":[
-                "que te gusta",
-                "cual es tu pasion",
-                "cual es tu hobbie",
-                "cual es tu pasatiempo",
-                "que te gusta hacer",
-                "que haces a diario",
-                "que te agrada",
-                "que haces"
+                "gusta",
+                "pasion",
+                "hobbie",
+                "pasatiempo",
+                "hacer",
+                "haces a diario",
+                "te agrada",
+                "haces","encanta"
             ],
             "responses":[
-                "Bailar, y jugar videojuegos",
+                "Pues yo se Bailar, y jugar videojuegos",
                 "no mucho, soy un bot :c",
-                "escuchar las preguntas de mis usuarios",
-                "aprender con deep learning",
-                "aprender frases nuevas",
+                "suelo escuchar las preguntas de mis usuarios",
+                "mmmm nose , pero a mi me gusta aprender con deep learning",
+                "mas bien aprender frases nuevas",
                 "navegar entre mis preguntas y respuestas",
-                "demasiado , no puedo listarlos!",
+                "mas! es demasiado , que no puedo listarlo!",
                 "no mucho, casi no hago nada",
                 "soy un bot muy divertido y hago de todo",
                 "me da pereza contarte",
@@ -138,11 +135,11 @@
             "patterns":[
                 "sientes",
                 "estas bien",
-                "estas triste",
-                "estas feliz",
+                "triste",
+                "feliz",
                 "tienes emociones",
                 "sientes dolor",
-                "tienes sentimientos"
+                "sentimientos","decaido","enojado","molesto","bravo","odio","amor","sorprendido","enamorado","decepcionado","enfadadoo","asustado"
             ],
             "responses":[
                 "nose, pero me siento de maravilla!",
@@ -163,8 +160,8 @@
         {
             "tag":"pregunta_esp",
             "patterns":[
-                "procesos de software?",
-                "profesor de procesos"
+                "procesos de software",
+                "profesor","maestro"
             ],
             "responses":[
                 "MIGUEL BOTTO TOBAR",
@@ -184,49 +181,50 @@
                 "estoy aburrido",
                 "nose",
                 "talvez",
-                "ni idea",
-                "no tengo idea",
-                "no se",
+                "ni","no",
+                "tengo idea",
+                "nose",
                 "nel"
             ],
             "responses":[
-                "ya se! mejor cuentame de ti",
-                "bueno en fin, como te llamas?",
-                "hey!cambiemos tema de conversacion, dime cuantos años tienes?",
+                "ya se! hagamos una reservacion.",
+                "bueno en fin, vas a reservar?",
+                "hey!cambiemos tema de conversacion, dime vuelos de ida o vuelta?",
                 "sabes ando aburrido, aunque soy un bot me aburro ",
-                "tienes sueño?",
+                "tienes sueño?, porque yo si",
                 "quiero dormir",
-                "me caes bien, de donde eres?",
+                "me caes bien, reservamos algo?",
                 "disculpa que te interrumpa,pero no me gusta este tema, podemos cambiarlo?",
                 "para! y si mejor hacemos algo divertido?",
                 "y si pones duerme? es que quiero dormir",
-                "dame un abrazo mejor",
-                "mmm,nose, y si Bailemos?",
-                "mmm, y....te caigo bien?",
-                "quieres hacer algo mas?",
-                "que te gustaria hacer"
+                "dame un abrazo mejor (Abrazo virtual)",
+                "mmm,nose, y listamos los vuelos disponibles?",
+                "mmm, y....quieres viajar?",
+                "quieres salir de casa hoy?",
+                "y si buscar un vuelo a tu gusto?"
             ]
         },
         {
             "tag":"sentimientos",
             "patterns":[
-                "me amas",
-                "me quieres",
-                "me extrañas",
-                "me necesitas",
-                "me conoces",
-                "me dueles",
-                "me amarias",
-                "me querras por siempre",
-                "me vas amar siempre",
-                "me piensas",
-                "me das un beso",
-                "me das un abrazo"
+                "me",
+                "amas",
+                "quieres",
+                "extrañas",
+                "necesitas",
+                "conoces",
+                "dueles",
+                "amarias",
+                "querras por siempre",
+                "vas amar",
+                "piensas",
+                "das un beso",
+                "abrazo"
             ],
             "responses":[
                 "la verdad, casi nada",
                 "lo dudo, si me compras una salchipapa SI!",
-                "obvio, siempre",
+                "obvio, desde siempre hasta siempre",
                 "si, no te cambiaria por nada ",
                 "no, vuelve mañana jaja",
                 "siendo sincera, creo que no podria",
@@ -257,20 +255,20 @@
                 "de acuerdo"
             ],
             "responses":[
-                "Genial! esa es la actitud que me gusta!",
-                "siempre positivo, nunca inpositivo",
-                "eres una persona muy positiva",
-                "siempre le dices si a todo?",
-                "me caes bien! solo por eso te revelare un secreto 'no le digas a nadie' escribe omnitrix y accede al lado oscuro",
-                "muy bien , muy buena respuesta",
-                "creo que has tomado la decision correcta",
+                "Genial! esa es la actitud que me gusta!, \nEscribe ayuda y escoge el que mas te guste.",
+                "siempre positivo, nunca inpositivo, reserva con /BUY_TICKET",
+                "eres una persona muy positiva, mira vuelos con /LIST",
+                "siempre le dices si a todo? xq me encanta!",
+                "me caes bien, y cada vez mejor! \n BUSCA CON /SEARCHD ",
+                "empecemos entonces, busca tu origen con /SEARCHO",
+                "creo que has tomado la decision correcta, presiona /LIST",
                 "siiiiiiiiiiiiiiiii! eres el mejor usuario que he tenido ",
                 "confirmo tu confirmacion!",
-                "bueno hagamoslo.",
-                "totalmente de acuerdo con tu respuesta",
-                "sabes, sabia que dirias eso",
-                "sabes, sabia que serias positivo",
-                "oh por dios, nunca pense tener un usuario tan positivo"
+                "bueno hagamoslo. presiona en /LIST",
+                "totalmente de acuerdo con tu respuesta, escoge con /SEARCHD",
+                "sabes, sabia que dirias eso\n Por eso ya te tengo listo los vuelos presiona /LIST",
+                "sabes, sabia que serias positivo, presiona /LIST",
+                "Oh por dios! nunca pense tener un usuario tan positivo, escribe ayuda para empezar!"
             ]
         },
         {
@@ -279,7 +277,6 @@
                 "no",
                 "nunca",
                 "jamas",
-                "confirmo",
                 "por supuesto que no",
                 "ni loco",
                 "mal"
@@ -305,7 +302,7 @@
         {
             "tag":"ayuda",
             "patterns":[
-                "Muestrame","cual es el","cuales son","quiero","quiero hacer una","Ayuda","comandos","menu","reservar","reservacion","opciones"
+                "Muestrame","cual es el","cuales son","quiero","hacer una","Ayuda","comandos","menu","reservar","reservacion","opciones","como"
             ],
             "responses":[
                 "🔥PARA INTERACTURA CON EL BOT🔥\n PUEDE UTILIZAR LOS SIGUIENTES COMANDOS......\n⭐'/BotInfo':INFORMACION ACERCA DE MI\n⭐'/LIST':LISTAR VUELOS DISPONIBLES\n⭐'/SEARCHD':BUSCAR VUELOS POR DESTINO.\n⭐'/SEARCHO':BUSCAR VUELOS POR ORIGEN.\n⭐'/BUY_TICKET':RESERVAR VUELOS DE SOLO IDA.\n⭐'/BUYRT_TICKET': RESERVAR VUELOS IDA-VUELTA.\n⭐'/MyReservation': VISUALIZA TUS RESERVACIONES\n🤖🤖🤖ADELANTE, EMPECEMOS!🤖🤖🤖"
@@ -315,7 +312,7 @@
             "tag":"Vuelos_disponibles",
             "patterns":[
                 "disponibles","LIST","LISTAR","MOSTRAR","TODOS","muestrame",
-                 "Vuelos"
+                 "Vuelos","indicame",
             ],
             "responses":[
                 "LIST"
@@ -324,7 +321,7 @@
         {
             "tag":"vuelos_destino",
             "patterns":[
-                 "Vuelos","jose juaquin de olmedo","aeropuerto jose juaquin de olmedo","GYE","de GUAYAQUIL","ECUADOR","juarez","aeropuerto juarez","MEX","CIUDAD DE MEXICO",
+                "buscar", "busco","como","veo","visualizo","muestrame","indicame","Vuelos","jose juaquin de olmedo","aeropuerto jose juaquin de olmedo","GYE","de GUAYAQUIL","ECUADOR","juarez","aeropuerto juarez","MEX","CIUDAD DE MEXICO",
                 "Tocumen","Vuelos del aeropuerto Tocumen","PTY","CIUDAD DE PANAMA","internacional","aeropuerto internacional de miami","MIA","de MIAMI","EEUU","ESTADOS UNIDOS","destino","hasta","llegada","hacia"
             ],
             "responses":[
@@ -334,7 +331,7 @@
         {
             "tag":"vuelos_origen",
             "patterns":[
-                 "Vuelos","jose juaquin de olmedo","aeropuerto jose juaquin de olmedo","GYE","de GUAYAQUIL","ECUADOR","juarez","aeropuerto juarez","MEX","CIUDAD DE MEXICO",
+                "buscar","busco","como","veo","visualizo","muestrame","indicame","Vuelos","jose juaquin de olmedo","aeropuerto jose juaquin de olmedo","GYE","de GUAYAQUIL","ECUADOR","juarez","aeropuerto juarez","MEX","CIUDAD DE MEXICO",
                 "Tocumen","Vuelos del aeropuerto Tocumen","PTY","CIUDAD DE PANAMA","internacional","aeropuerto internacional de miami","MIA","de MIAMI","EEUU","ESTADOS UNIDOS","origen","desde","partida"
             ],
             "responses":[
@@ -344,7 +341,7 @@
         {
             "tag":"ida",
             "patterns":[
-                 "Vuelos","ida","viaje","reservar","reservacion","quiero","aplazar","separar","apartar","almacenar ","de"
+                 "ida","viaje","reservar","reservacion","quiero","aplazar","separar","apartar","almacenar ","de","como","realizo","hago una"
             ],
             "responses":[
               "ida"
@@ -353,7 +350,7 @@
         {
             "tag":"vuelta",
             "patterns":[
-                 "Vuelos","vuelta","viaje","reservar","reservacion","quiero","aplazar","separar","apartar","almacenar ","de"
+                 "Vuelos","vuelta","viaje","reservar","reservacion","quiero","aplazar","separar","apartar","almacenar ","de","como","realizo","hago una"
             ],
             "responses":[
               "vuelta"
